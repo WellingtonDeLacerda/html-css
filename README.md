@@ -1,6 +1,6 @@
 # 🌐 HTML-CSS - Exercícios e Desafios  
 
-Este repositório contém exercícios e desafios que fiz durante o curso de **HTML e CSS** do professor **Gustavo Guanabara**. Aqui, você encontrará projetos simples e avançados, aplicando boas práticas de desenvolvimento web.  
+Este repositório contém exercícios e desafios que fiz durante o curso de **HTML e CSS** do professor **[Gustavo Guanabara](https://youtu.be/Ejkb_YpuHWs?si=UgpILOf8TrGjIsfk)**. Aqui, você encontrará projetos simples e avançados, aplicando boas práticas de desenvolvimento web.  
 
 ## 📌 Sobre o Repositório  
 
