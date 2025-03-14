@@ -10,10 +10,10 @@ Este repositório contém exercícios e desafios que fiz durante o curso de **HT
 
 ## 🛠️ Tecnologias Utilizadas  
 
-![HTML5]()
-<img src="https://https://wellingtondelacerda.github.io/html-css/img/HTML.png" width="250">
-![CSS3]()  
-<img src="https://https://wellingtondelacerda.github.io/html-css/img/CSS.png" width="250">
+![HTML5](https://wellingtondelacerda.github.io/html-css/img/HTML.png)
+
+![CSS3](https://wellingtondelacerda.github.io/html-css/img/CSS.png)  
+
 
 - **HTML5**: Estruturação do conteúdo.  
 - **CSS3**: Estilização e layout responsivo.  
