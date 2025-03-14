@@ -1,40 +1,51 @@
-# 🖥️ Wellington
+# 🌐 HTML-CSS - Exercícios e Desafios  
 
-Bem-vindo ao meu repositório! Sou um entusiasta da tecnologia, design e storytelling, sempre explorando novas formas de criar e inovar.
+Este repositório contém exercícios e desafios que fiz durante o curso de **HTML e CSS** do professor **Gustavo Guanabara**. Aqui, você encontrará projetos simples e avançados, aplicando boas práticas de desenvolvimento web.  
 
-## 🚀 Sobre mim
+## 📌 Sobre o Repositório  
 
-- 🎨 Artista e roteirista em desenvolvimento, atualmente trabalhando no meu primeiro mangá.
+- 🏗️ Projetos criados durante o curso.  
+- 🚀 Exercícios práticos para reforçar conceitos.  
+- 🎯 Desafios que me ajudaram a melhorar minhas habilidades.  
 
-- 🏋️‍♂️ Em busca de um estilo de vida mais saudável, incluindo exercícios e alimentação equilibrada.
+## 🛠️ Tecnologias Utilizadas  
 
-- 📚 Estudando inglês e aprimorando minha lógica para escrita e programação.
+![HTML5](URL_DA_IMAGEM_HTML)  
+![CSS3](URL_DA_IMAGEM_CSS)  
 
-- 👨‍💻 Interessado em desenvolvimento web, criação de jogos e aplicativos.
+- **HTML5**: Estruturação do conteúdo.  
+- **CSS3**: Estilização e layout responsivo.  
 
-- 📱 Usando Duolingo para aprender inglês e Google Fotos para backups.
+## 📂 Estrutura do Repositório  
 
+📁 **exercicios/** → Contém todos os exercícios feitos durante o curso.  
+📁 **desafios/** → Desafios para praticar os conceitos aprendidos.  
+📁 **projetos/** → Pequenos projetos aplicando HTML e CSS.  
 
-## 🛠️ Habilidades
+## 📚 Conteúdo  
 
-- Desenvolvimento Web: HTML, CSS e JavaScript.
+### 📝 Exercícios  
+- [Exercício 01 - Introdução ao HTML](URL_EXERCICIO_01)  
+- [Exercício 02 - Listas e Links](URL_EXERCICIO_02)  
+- [Exercício 03 - Formulários](URL_EXERCICIO_03)  
+- … *(adicione mais conforme necessário)*  
 
-- Arte e Ilustração: Criando cursos de desenho e desenvolvendo meu próprio mangá.
+### 🚀 Desafios  
+- [Desafio 01 - Página Simples](URL_DESAFIO_01)  
+- [Desafio 02 - Layout Responsivo](URL_DESAFIO_02)  
+- [Desafio 03 - Página com Flexbox](URL_DESAFIO_03)  
 
-- Histórias e Roteiros: Apaixonado por contar histórias de forma criativa.
+## 🎯 Objetivos  
 
+✅ Aprender HTML e CSS do zero.  
+✅ Praticar a estruturação de páginas web.  
+✅ Melhorar a estilização e responsividade.  
+✅ Criar projetos cada vez mais complexos.  
 
-## 🎯 Projetos
+## 📩 Contato  
 
-- 📖 Mangá original: Ainda em fase de roteiro, mas evoluindo!
+Se quiser trocar ideias ou tirar dúvidas, fique à vontade para entrar em contato!  
 
-- 🎨 Cursos de desenho: Compartilhando conhecimento com outros aspirantes a artistas.
+📌 _"Praticar todos os dias é o segredo para dominar HTML e CSS!"_  
 
-- 🕹️ Criação de jogos e aplicativos: Explorando ideias para projetos futuros.
-
-
-## 📩 Contato
-
-Fique à vontade para entrar em contato e trocar ideias!
-
-📌 "Criatividade sem limites, inovação sem medo."
+---
