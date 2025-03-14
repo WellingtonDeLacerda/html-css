@@ -47,6 +47,10 @@ Este repositório contém exercícios e desafios que fiz durante o curso de **HT
 
 Se quiser trocar ideias ou tirar dúvidas, fique à vontade para entrar em contato!  
 
+- [○Repositórios do github○]()
+- [○Meu Instagram○]()
+- [○Meu WhatsApp○]()
+
 📌 _"Praticar todos os dias é o segredo para dominar HTML e CSS!"_  
 
 ---
