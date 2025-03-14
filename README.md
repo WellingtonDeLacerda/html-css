@@ -1,4 +1,4 @@
-🖥️ Wellington
+#🖥️ Wellington
 
 Bem-vindo ao meu repositório! Sou um entusiasta da tecnologia, design e storytelling, sempre explorando novas formas de criar e inovar.
 
@@ -38,9 +38,3 @@ Histórias e Roteiros: Apaixonado por contar histórias de forma criativa.
 Fique à vontade para entrar em contato e trocar ideias!
 
 📌 "Criatividade sem limites, inovação sem medo."
-
-
----
-
-Se quiser modificar algo ou adicionar mais detalhes, me avise!
-
