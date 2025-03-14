@@ -26,14 +26,14 @@ Este repositório contém exercícios e desafios que fiz durante o curso de **HT
 
 ### 📝 Exercícios  
 - [Exercício 01 - Introdução ao HTML](https://wellingtondelacerda.github.io/html-css/exercícios/ex001/)  
-- [Exercício 02 - Parágrafos e quebra de linhas](https://github.com/WellingtonDeLacerda/html-css/exercícios/ex002)  
-- [Exercício 03 - Carrgando imagens na tela](https://github.com/WellingtonDeLacerda/html-css/exercícios/ex003)  
+- [Exercício 02 - Parágrafos e quebra de linhas](https://github.com/WellingtonDeLacerda/html-css/exercícios/ex002/)  
+- [Exercício 03 - Carrgando imagens na tela](https://github.com/WellingtonDeLacerda/html-css/exercícios/ex003/)  
 - … *(adicione mais conforme necessário)*  
 
 ### 🚀 Desafios  
-- [Desafio 01 - Página Simples](URL_DESAFIO_01)  
-- [Desafio 02 - Layout Responsivo](URL_DESAFIO_02)  
-- [Desafio 03 - Página com Flexbox](URL_DESAFIO_03)  
+- [Desafio 01 - Desafio da mensagem](https://wellingtondelacerda.github.io/html-css/desafios/desafio001/)  
+- [Desafio 02 - Desafio da imagem](https://wellingtondelacerda.github.io/html-css/desafios/desafio002/)  
+- [Desafio 03 - Desafio do mapa](https://wellingtondelacerda.github.io/html-css/desafios/desafio003/)  
 
 ## 🎯 Objetivos  
 
