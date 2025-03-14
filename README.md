@@ -47,9 +47,9 @@ Este repositório contém exercícios e desafios que fiz durante o curso de **HT
 
 Se quiser trocar ideias ou tirar dúvidas, fique à vontade para entrar em contato!  
 
-- [○Repositórios do github○]()
-- [○Meu Instagram○]()
-- [○Meu WhatsApp○]()
+- [○Repositórios do github○](https://github.com/WellingtonDeLacerda/html-css/tree/main)
+- [○Meu Instagram○](https://www.instagram.com/wellington_lacerda.art?igsh=djd5aHYxaDNwbjRn)
+- ○Meu WhatsApp○ (+55(88)9496-4332)
 
 📌 _"Praticar todos os dias é o segredo para dominar HTML e CSS!"_  
 
