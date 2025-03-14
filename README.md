@@ -25,9 +25,9 @@ Este repositório contém exercícios e desafios que fiz durante o curso de **HT
 ## 📚 Conteúdo  
 
 ### 📝 Exercícios  
-- [Exercício 01 - Introdução ao HTML](URL_EXERCICIO_01)  
-- [Exercício 02 - Listas e Links](URL_EXERCICIO_02)  
-- [Exercício 03 - Formulários](URL_EXERCICIO_03)  
+- [Exercício 01 - Introdução ao HTML](https://wellingtondelacerda.github.io/html-css/exercícios/ex001/)  
+- [Exercício 02 - Parágrafos e quebra de linhas](https://github.com/WellingtonDeLacerda/html-css/exercícios/ex002)  
+- [Exercício 03 - Carrgando imagens na tela](https://github.com/WellingtonDeLacerda/html-css/exercícios/ex003)  
 - … *(adicione mais conforme necessário)*  
 
 ### 🚀 Desafios  
