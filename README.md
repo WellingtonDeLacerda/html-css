@@ -1,8 +1,3 @@
-Aqui está um modelo de README.md para você. Ele destaca suas habilidades, interesses e projetos em andamento.
-
-
----
-
 🖥️ Wellington
 
 Bem-vindo ao meu repositório! Sou um entusiasta da tecnologia, design e storytelling, sempre explorando novas formas de criar e inovar.
