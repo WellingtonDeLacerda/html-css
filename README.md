@@ -10,8 +10,8 @@ Este repositório contém exercícios e desafios que fiz durante o curso de **HT
 
 ## 🛠️ Tecnologias Utilizadas  
 
-![HTML5](URL_DA_IMAGEM_HTML)  
-![CSS3](URL_DA_IMAGEM_CSS)  
+![HTML5](https://github.com/WellingtonDeLacerda/html-css/blob/main/img/HTML.png)  
+![CSS3](https://github.com/WellingtonDeLacerda/html-css/blob/main/img/CSS.png)  
 
 - **HTML5**: Estruturação do conteúdo.  
 - **CSS3**: Estilização e layout responsivo.  
