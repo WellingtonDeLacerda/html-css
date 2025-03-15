@@ -10,9 +10,9 @@ Este repositório contém exercícios e desafios que fiz durante o curso de **HT
 
 ## 🛠️ Tecnologias Utilizadas  
 
-<img src="img/HTML.png" width="300px">
+![HTML](img/HTML.png)
 
-<img src="img/CSS.png" width="300px">
+![CSS](img/CSS.png)
 
 - **HTML5**: Estruturação do conteúdo.  
 - **CSS3**: Estilização e layout responsivo.  
