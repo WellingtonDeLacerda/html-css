@@ -24,7 +24,7 @@
 }
 body{
     background-color:var(--cor0);
-    
+    font-family:arial,Helvetica,sans-serif;
 }
 header{
     background-image: linear-gradient(to bottom,var(--cor3),var(--cor5));
