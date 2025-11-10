@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid frações</title>
+    <style>
+        div.container {
+            display:grid;
+            gap:10px;
+            grid-template-columns: 80px 2fr 40%;
+            grid-template-rows: repeat(3, 100px);
+            background:#2c6e25d5;
+            place-items:normal;
+            place-content:normal;
+            padding:5px;
+        }
+        div.items {
+            padding:5px;
+            border:2px solid black;
+            background:white;
+            border-radius:20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="items">A</div>
+        <div class="items">B</div>
+        <div class="items">C</div>
+        <div class="items">D</div>
+        <div class="items">E</div>
+        <div class="items">F</div>
+        <div class="items">G</div>
+        <div class="items">H</div>
+        <div class="items">I</div>
+    </div>
+</body>
+</html>
