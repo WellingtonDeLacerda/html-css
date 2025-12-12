@@ -51,6 +51,5 @@ Contém os códigos de estudo, exemplos e exercícios de fixação para cada mó
 Abaixo está um exemplo de como alguns dos projetos de desafio se parecem:
 
 ![Exemplo Visual de um Desafio HTML/CSS do Guanabara](https://cdn.iconscout.com/icon/free/png-256/free-vb-file-icon-svg-download-png-775420.png)
-*(Para que esta imagem apareça, crie uma pasta `assets` no seu repositório e adicione uma imagem de pré-visualização chamada `html-css-preview.png`)*
 
 ---
