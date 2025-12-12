@@ -44,12 +44,3 @@ Contém os códigos de estudo, exemplos e exercícios de fixação para cada mó
 | **Ex025** | Formulários Completos | [Acessar](exercicios/ex025) |
 | **Ver todos os 25 exercícios...** | | [Pasta Exercícios](exercicios) |
 
----
-
-## 🖼️ Imagem de Destaque (Visualização)
-
-Abaixo está um exemplo de como alguns dos projetos de desafio se parecem:
-
-![Exemplo Visual de um Desafio HTML/CSS do Guanabara](https://cdn.iconscout.com/icon/free/png-256/free-vb-file-icon-svg-download-png-775420.png)
-
----
