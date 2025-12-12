@@ -24,11 +24,11 @@ Contém os projetos práticos e desafios propostos para testar a aplicação dos
 
 | Desafio | Tópico Principal | Link Rápido |
 | :---: | :--- | :--- |
-| **D001** | Primeiros Códigos e Emmet | [Acessar](desafios/d001) |
-| **D005** | Favicons e Estrutura Básica | [Acessar](desafios/d005) |
-| **D008** | Navegação Simples entre Páginas | [Acessar](desafios/d008) |
-| **D010** | Projeto Android (Responsividade) | [Acessar](desafios/d010) |
-| **D014** | Tabelas e Estilização Avançada | [Acessar](desafios/d014) |
+| **D001** | Primeiros Códigos e Emmet | [Acessar](desafios/desafio001) |
+| **D005** | Favicons e Estrutura Básica | [Acessar](desafios/desafio005) |
+| **D008** | Navegação Simples entre Páginas | [Acessar](desafios/desafio008) |
+| **D011** | Projeto Android (Responsividade) | [Acessar](desafios/desafio011) |
+| **D014** | Tabelas e Estilização Avançada | [Acessar](desafios/desafio014) |
 | **Ver todos os 15 desafios...** | | [Pasta Desafios](desafios) |
 
 ### 2️⃣ Exercícios (Pastas `exercicios/ex001` a `exercicios/ex025`)
@@ -50,7 +50,7 @@ Contém os códigos de estudo, exemplos e exercícios de fixação para cada mó
 
 Abaixo está um exemplo de como alguns dos projetos de desafio se parecem:
 
-![Exemplo Visual de um Desafio HTML/CSS do Guanabara](assets/html-css-preview.png)
+![Exemplo Visual de um Desafio HTML/CSS do Guanabara](https://cdn.iconscout.com/icon/free/png-256/free-vb-file-icon-svg-download-png-775420.png)
 *(Para que esta imagem apareça, crie uma pasta `assets` no seu repositório e adicione uma imagem de pré-visualização chamada `html-css-preview.png`)*
 
 ---
