@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Senhas</title>
+    <style>
+        body{
+            font:normal 500 1rem Arial, Sans-serif;
+        }
+        form#formu{
+            background-color:lightgrey;
+            padding:10px;
+            box-shadow:2px 2px 5px gray;
+            width:300px;
+            margin:auto
+        }
+        #formu > h2{
+            text-align:center;
+            font-family:arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>criando um formulário</h1>
+    <form method="post" action="cadastro.js" id="formu">
+        <h2>cadastro de senha</h2>
+        <p>
+         <label for="iusuario">Usuário:</label>
+         <input type="text" name="usuario" id="iusuario" placeholder="Digite o nome do Usuário" required minlength='5' maxlength="24">
+        </p>
+        <p>
+         <label for="isenha">Senha:</label>
+         <input type="password" name="senha" id="isenha" placeholder="Digite a sua Senha" required minlength='6'>
+        </p>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Excluir">
+    </form>
+   
+</body>
+</html>

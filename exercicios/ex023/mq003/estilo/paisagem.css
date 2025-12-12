@@ -1,0 +1,22 @@
+@charset 'UTF-8';
+
+@media screen and (orientation:landscape){
+   *{
+       margin: 0px;
+       padding: 0px;
+   }
+    body{
+        background-color: yellow;
+    }
+    #paisagem{
+        font-size: 2.5em;
+        background-color: lightgray;
+        padding: 10px;
+        box-shadow: 2px 2px 7px gray;
+        text-align: center;
+        text-shadow: 2px 2px 2px black;
+    }
+    #retrato{
+        display: none;
+    }
+}

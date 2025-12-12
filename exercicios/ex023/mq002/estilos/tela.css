@@ -1,0 +1,18 @@
+@charset 'UTF-8';
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html, body{
+    width: 100vw;
+    height: 100vh;
+    font-family: serif;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color:#233eff;
+    color: white;
+}
+h1{
+    padding: 10px;
+}

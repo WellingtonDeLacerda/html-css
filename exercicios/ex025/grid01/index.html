@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colocando Gtid-layout</title>
+    <style>
+        div.container {
+            display:grid;
+            background:lightgrey;
+            height:90vh;
+            gap:10px;
+            grid-template-rows:100px 100px 100px;
+            grid-template-columns:100px 100px 100px;
+            align-items: normal;
+            justify-items: normal;
+            align-content: end;
+            justify-content: center;
+        }
+        div.items {
+            background:#8098ff5e;
+            border:3px solid red;
+            padding:5px;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="items">A</div>
+        <div class="items">B</div>
+        <div class="items">C</div>
+        <div class="items">D</div>
+        <div class="items">E</div>
+        <div class="items">F</div>
+        <div class="items">G</div>
+        <div class="items">H</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glexbox</title>
+    <style>
+        div.container{
+            background-color:#ffdfaa;
+            display:flex;
+            height:300px;
+            flex-direction: row-reverse;
+            width:100%;
+            margin:auto;
+            align-items:center;
+            justify-content:space-between;
+        }
+        div.item{
+            background-color:#6afff5;
+            border:1px solid black;
+            text-align:center;
+            width:20px;
+            padding:10px;
+            box-shadow: 2px 2px 5px #0707074c;
+            transition-duration: .5s;
+            border-radius: 5px;
+            
+        }
+        div.item:hover{
+            margin-bottom: 10px;
+            margin-right: 10px;
+            box-shadow: 6px 6px 5px #0707074c;
+            background-color: #074e51;
+            color: white;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+        <div class="item">D</div>
+        <div class="item">E</div>
+        <div class="item">F</div>
+    </div>
+</body>
+</html>

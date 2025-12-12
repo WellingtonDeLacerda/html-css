@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-classe</title>
+    <style>
+        body{
+            font-family:Sans-serif;
+        }
+        div{
+            width:100px;
+        }
+        div > p{
+            display:none;
+        }
+        div:hover{
+            color:red;
+            
+        }
+        div:hover > p{
+            display:block;
+            background-color:red;
+            width:100px;
+            padding:5px;
+            color:white;
+            border:1px solid black;
+        }
+        a{
+            text-decoration:none;
+            color:white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Título do site</h1>
+    <div>clique aqui 
+    <p><a href="#">TEXTO ESCONDIDO....</a></p>
+    </div>
+    <p>Fim do exemplo</p>
+</body>
+</html>

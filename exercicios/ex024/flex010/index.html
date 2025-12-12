@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flex</title>
+    <style>
+        .container{
+            display:flex;
+            background-color:aqua;
+            flex-flow:row nowrap;
+        }
+        .item{
+            background-color:orange;
+            text-align:center;
+            border:1px solid black;
+            padding:5px;
+            flex-basis:250px;
+            flex-shrink: 1;
+            /* ele vai enconlher */
+            flex-grow: 0;
+            /* ele vai aumentar */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-element</title>
+    <style>
+        body{
+            font-family:Sans-serif;
+        }
+        a{
+            text-decoration: none;
+        }
+        a:defined{
+            color: darkred;
+        }
+        a:active{
+            color: whitesmoke;
+            background-color: darkred;
+            padding: 2px;
+        }
+        a::after{
+            content:'<=';
+            color:black
+        }
+        a::before{
+            content: '=>';
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1>links abaixo</h1>
+    <ul>
+        <li><a href="#" id='a1'>primeiro link</a></li> <br>
+        <li><a href="#" id='a2'>segundo link</a></li> <br>
+        <li><a href="#" id='a3'>terceiro link</a></li>
+    </ul>
+</body>
+</html>

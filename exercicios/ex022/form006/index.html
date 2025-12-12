@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Seleção de formas</h1>
+    <form action="cadastro.js" method="POST">
+    <p>
+    <label for="est">Estado</label>
+    <select name="estado" id="est" required>
+        <option value="" selected>---escolha---</option>
+        <optgroup label="NORDESTE">
+            <option value="ce">
+                Ceará 
+            </option>
+            <option value="pi">
+                Piauí 
+            </option>
+            <option value="pa">
+                Paraíba 
+            </option>
+        </optgroup>
+        <optgroup label="SUDESTE">
+            <option value="sp">
+                São Paulo
+            </option>
+            <option value="mg">
+                Minas gerais 
+            </option>
+            <option value="go">
+                Goiás 
+            </option>
+        </optgroup>
+    </select>
+        
+    </p>
+    <label for="ipro">profissão</label>
+    <input type="text" name="prof" id="ipro" list="pro">
+    <datalist id="pro">
+        <option>programador</option>
+        <option>cozinheiro</option>
+        <option>cabeleireiro</option>
+        <option>carteiro</option>
+    </datalist>
+    <p>
+        
+     <label for="msg" id="mu">Mensagem</label> <br>
+     <textarea name="mensagem" id="msg">
+        
+     </textarea>
+    </p>
+    <p>
+    <input type="submit" value="Enviar">
+    <input type="reset" value="Limpar">
+    </p>
+    </form>
+</body>
+</html>

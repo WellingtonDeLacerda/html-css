@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex-flow</title>
+    <style>
+        .container{
+            display:flex;
+            background-color:aqua;
+            flex-flow:row wrap;
+            min-width:270px;
+            max-width:400px;
+        }
+        .item{
+            background-color:orange;
+            text-align:center;
+            border:1px solid black;
+            padding:5px;
+            flex:auto;
+            height:40px;
+            line-height:40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item">Bloco A</div>
+        <div class="item">Bloco B</div>
+        <div class="item">Bloco C</div>
+        <div class="item">Bloco D</div>
+        <div class="item">Bloco E</div>
+        <div class="item">Bloco F</div>
+        <div class="item">Bloco G</div>
+        <div class="item">Bloco H</div>
+    </div>
+</body>
+</html>

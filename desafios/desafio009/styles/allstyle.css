@@ -1,0 +1,12 @@
+@charset 'UTF-8';
+
+body {
+    background: black;
+    color: white;
+    font:normal 500 1rem Arial, Sans-serif;
+}
+.iframe {
+    height: 300px;
+    min-width:300px ;
+    max-width: 500px;
+}

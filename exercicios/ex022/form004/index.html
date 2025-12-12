@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <style>
+        .yt{
+            min-width:240px;
+            max-width:400px;
+            background-color:white;
+        }
+         body{
+            font:normal 500 1rem Arial, Sans-serif;
+        }
+        form{
+            background-color:lightgrey;
+            box-shadow:2px 2px 6px gray;
+            border:1px solid black;
+            border-radius:20px;
+            padding:20px;
+            min-width:250px;
+            max-width:400px;
+            margin:auto;
+            
+        }
+        p#bot{
+            text-align:center;
+          
+        }
+        .botão{
+            background-color:darkblue;
+            color:white;
+            font-weight:bolder;
+            padding:3px;
+            margin:5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>fazendo formulário</h1>
+    <form action="cadastro.js" method="get" >
+        <h2>informe seu sexo</h2>
+        <fieldset class="yt">
+        <legend>sexo</legend>
+        
+        <p>
+        <label for="m">Masculino</label>
+        <input type="radio" name="sexo" id="m" required> <br>
+        <label for="f">Feminino</label>
+        <input type="radio" name="sexo" id="f" required> <br>
+        <label for="v">violão</label>
+        <input type="radio" name="sexo" id="v" required> <br>
+        </p>
+        
+        </fieldset>
+        <h2>quais animes você gosta?</h2>
+        <fieldset class="yt">
+           
+        <legend>Animes</legend>
+       <p>
+        <label for="na">Naruto</label>
+        <input type="checkbox" name="naruto" id="na" ><br>
+        <label for="one">One piece</label>
+        <input type="checkbox" name="onepiece" id="one" ><br>
+        <label for="dra">Dragon ball</label>
+        <input type="checkbox" name="dragon" id="dra" ><br>
+        <label for="ble">Bleach</label>
+        <input type="checkbox" name="bleah" id="ble"><br>
+       </p>
+        
+        </fieldset>
+        <p id="bot">
+         <input type="submit" value="Enviar" class="botão">
+        <input type="reset" value="Limpar" class="botão">
+        </p>
+    </form>
+</body>
+</html>

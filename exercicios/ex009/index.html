@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formação de imagens</title>
+</head>
+<body>
+    <h1>Formatando imagens</h1>
+    <p>Exemplo de formatação de tamanho de imagem para o seu navegador</p>
+    <picture>
+        <source media="(max-width:600px )" srcset="image/small.png" type="image/png">
+        <source media="(max-width:1200px )" srcset="image/medium.jpeg" type="image/jpeg">
+        <img src="image/big.jpeg">
+    </picture>
+</body>
+</html>

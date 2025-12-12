@@ -1,0 +1,39 @@
+@charset 'UTF-8';
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    font-family: arial;
+}
+p {
+    margin: 10px;
+}
+h2{
+    margin: 10px;
+}
+header{
+    background-color: lightgray;
+   
+}
+header > h1{
+    text-align: center;
+    padding: 5px;
+}
+menu{
+    background-color: gray;
+   
+}
+ul > li{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid white;
+}
+main{
+    min-width: 300px;
+    max-width: 600px;
+    
+}

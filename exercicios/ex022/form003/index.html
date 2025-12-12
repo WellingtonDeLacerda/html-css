@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <style>
+        body{
+            font:normal 500 1rem Arial, Sans-serif;
+        }
+        form{
+            background-color:lightgrey;
+            box-shadow:2px 2px 6px gray;
+            border:1px solid black;
+            border-radius:20px;
+            padding:20px;
+            min-width:250px;
+            max-width:400px;
+            margin:auto;
+            
+        }
+        p#bot{
+            text-align:center;
+          
+        }
+        .botão{
+            background-color:darkblue;
+            color:white;
+            font-weight:bolder;
+            padding:3px;
+            margin:5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>mais um teste de formulário</h1>
+   <form action="cadastro.js" method="get">
+    <h2>formulário de preenchimento</h2>
+    <p>
+     <label for="inome">Nome:</label> 
+     <input type="text" name="nome" id="inome" maxlength="30" required placeholder="Nome completo">
+     </p>
+     <p>
+      <label for="imedia">Média:</label>
+      <input type="number" name="media" id="imedia" required placeholder="0 a 10" min="0" max="10" step="0.5">
+     </p>
+     <p>
+      <label for="imes">data de hoje:</label>
+      <input type="month" name="mes" id="imes" required >
+     </p>
+   
+    <p id="bot">
+     <input type="submit" value="Enviar" class="botão">
+     <input type="reset" value="Limpar" class="botão">
+    </p>
+   </form>
+</body>
+</html>

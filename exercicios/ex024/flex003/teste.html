@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Teste flexbox</title>
+    <style>
+        body{
+            min-height:100vh;
+            width:97vw;
+            
+        }
+        .caixa_grande{
+            border:1px solid black;
+            width:300px;
+            height:300px;       
+            display:flex;
+            justify-content:start;
+            align-items:center;
+            flex-flow:column;
+            margin:auto;
+            margin-bottom:5px;
+            background:linear-gradient(red,orange);
+            border-radius:25px;
+            box-shadow:0px 0px 10px #00000099
+        }
+        .caixa_pequena{
+            border:1px solid white;
+            width:80px;
+            height:80px;
+            margin:8px;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            background-color:black;
+            color:white;
+            font-weight:bolder;
+            border-radius:10px;
+            transition-duration:.5s;
+        }
+        .caixa_pequena:hover{
+            border-radius:80px;
+            color:black;
+            background-color:white;
+            border:1px solid black;
+            cursor:point;
+        }
+        @media screen and (min-width:900px) and (max-width:2000px){
+            body{
+                height:60vh;
+                width:99vw;
+                display:flex;
+                align-items:center;
+                justify-content:center;
+            }
+            .caixa_grande{
+                flex-flow:row;
+                margin:0;
+                margin-right:5px;
+            }
+        }
+    </style>
+</head>
+<body >
+    <div class="caixa_grande">
+        <div class="caixa_pequena">1</div>
+        <div class="caixa_pequena">2</div>
+        <div class="caixa_pequena">3</div>
+        
+    </div>
+    <div class="caixa_grande">
+        <div class="caixa_pequena">4</div>
+        <div class="caixa_pequena">5</div>
+        <div class="caixa_pequena">6</div>
+    </div>
+    <div class="caixa_grande">
+        <div class="caixa_pequena">7</div>
+        <div class="caixa_pequena">8</div>
+        <div class="caixa_pequena">9</div>
+    </div>
+</body>
+</html>

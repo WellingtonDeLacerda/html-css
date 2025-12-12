@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+    <style>
+        body{
+            font-family:serif;
+            margin:auto;
+            padding: 5px;
+        }
+        table{
+            width:500px;
+            border-collapse: collapse;
+            margin:auto;
+        }
+        td,th{
+            border:1px solid black;
+            padding:8px;
+        }
+        caption{
+            padding:5px;
+            background-color:lightgray;
+            font-size:1.5em;
+            font-weight:bold;
+        }
+        thead th{
+            background-color:gray;
+            color:white;
+        }
+        .num{
+            text-align:center;
+        }
+        .pop{
+            text-align:right;
+        }
+        .num2{
+            text-align:center;
+            color:green;
+        }
+        tbody > tr:nth-child(2n){
+            background-color: lightgray;
+        }
+        tfoot th{
+            background-color:gray;
+            color:white;
+        }
+        tfoot td{
+            background-color:gray;
+            color:white;
+        }
+    </style>
+</head>
+<body>
+    <h1>População de Estados</h1>
+    <table>
+        <caption>Título da tabela federação</caption>
+        <thead>
+            <tr>
+                <th class="num" scope="col">Posição</th>
+                <th scope="col">Unidade Federativa</th>
+                <th scope="col">População</th>
+                <th scope="col">Mudança</th>
+                <th scope="col">Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="num">1</td>
+                <td>São Paulo</td>
+                <td class="pop">44 411 238</td>
+                <td class="num2" cl>+7.63%</td>
+                <td class="num">21,88%</td>
+            </tr>
+            <tr>
+                <td class="num">2</td>
+                <td>Minas Gerais</td>
+                <td class="pop">20 538 718</td>
+                <td class="num2">+4.81%</td>
+                <td class="num">10,11%</td>
+            </tr>
+            <tr>
+                <td class="num">3</td>
+                <td>Rio de Janeiro</td>
+                <td class="pop">16 054 524	</td>
+                <td class="num2">+0.40%</td>
+                <td class="num">7,91%</td>
+            </tr>
+            <tr>
+                <td class="num">4</td>
+                <td>Bahia</td>
+                <td class="pop">14 141 626</td>
+                <td class="num2">+0.89%</td>
+                <td class="num">6,96%</td>
+            </tr>
+            <tr>
+                <td class="num">5</td>
+                <td>Paraná</td>
+                <td class="pop">11 444 380</td>
+                <td class="num2">+9.57%</td>
+                <td class="num">5,64%</td>
+            </tr>
+            <tr>
+                <td class="num">6</td>
+                <td>Rio Grande do Sul</td>
+                <td class="pop">10 882 965</td>
+                <td class="num2">+1.76%</td>
+                <td class="num">5,36%</td>
+            </tr>
+            <tr>
+                <td class="num">7</td>
+                <td>Pernambuco</td>
+                <td class="pop">9 058 931</td>
+                <td class="num2">+2.98%</td>
+                <td class="num">4,46%</td>
+            </tr>
+            <tr>
+                <td class="num">8</td>
+                <td>Ceará</td>
+                <td class="pop">8 794 957</td>
+                <td class="num2">+4.05%</td>
+                <td class="num">4,33%</td>
+            </tr>
+            <tr>
+                <td class="num">9</td>
+                <td>Pará</td>
+                <td class="pop">8 121 025</td>
+                <td class="num2">+7.12%</td>
+                <td class="num">4,1%</td>
+            </tr>
+            <tr>
+                <td class="num">10</td>
+                <td>Santa Catarina</td>
+                <td class="pop">7 610 361</td>
+                <td class="num2">+21.78%</td>
+                <td class="num">3,75%</td>
+            </tr>
+            
+        </tbody>
+        <tfoot>
+            <tr>
+                <th scope="row">Total</th>
+                <td class="num">10</td>
+                <td>144.058.726</td>
+                <td class="num">+60%</td>
+                <td class="num">72%</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
