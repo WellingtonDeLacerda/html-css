@@ -38,9 +38,9 @@ Contém os códigos de estudo, exemplos e exercícios de fixação para cada mó
 | Exercício | Tópico Principal | Link Rápido |
 | :---: | :--- | :--- |
 | **Ex001** | Olá, Mundo! | [Acessar](exercicios/ex001) |
-| **Ex010** | Links Internos e Externos | [Acessar](exercicios/ex010) |
+| **Ex010** | Links medias Internos e Externos | [Acessar](exercicios/ex010) |
 | **Ex015** | CSS Externo e Inline | [Acessar](exercicios/ex015) |
-| **Ex021** | Modelos de Caixa (Box Model) | [Acessar](exercicios/ex021) |
-| **Ex025** | Formulários Completos | [Acessar](exercicios/ex025) |
+| **Ex018** | Modelos de Caixa (Box Model) | [Acessar](exercicios/ex018) |
+| **Ex024** | Formulários Completos | [Acessar](exercicios/ex024) |
 | **Ver todos os 25 exercícios...** | | [Pasta Exercícios](exercicios) |
 
