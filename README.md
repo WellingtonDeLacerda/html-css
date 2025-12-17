@@ -24,11 +24,11 @@ Contém os projetos práticos e desafios propostos para testar a aplicação dos
 
 | Desafio | Tópico Principal | Link Rápido |
 | :---: | :--- | :--- |
-| **D001** | Primeiros Códigos e Emmet | [Acessar](desafios/desafio001) |
-| **D005** | Favicons e Estrutura Básica | [Acessar](desafios/desafio005) |
-| **D008** | Navegação Simples entre Páginas | [Acessar](desafios/desafio008) |
-| **D011** | Projeto Android (Responsividade) | [Acessar](desafios/desafio011) |
-| **D014** | Tabelas e Estilização Avançada | [Acessar](desafios/desafio014) |
+| **D001** | Primeiros Códigos e Emmet | [Acessar](desafios/d001) |
+| **D005** | Favicons e Estrutura Básica | [Acessar](desafios/d005) |
+| **D008** | Navegação Simples entre Páginas | [Acessar](desafios/d008) |
+| **D011** | Projeto Android (Responsividade) | [Acessar](desafios/d011) |
+| **D014** | Tabelas e Estilização Avançada | [Acessar](desafios/d014) |
 | **Ver todos os 15 desafios...** | | [Pasta Desafios](desafios) |
 
 ### 2️⃣ Exercícios (Pastas `exercicios/ex001` a `exercicios/ex025`)
