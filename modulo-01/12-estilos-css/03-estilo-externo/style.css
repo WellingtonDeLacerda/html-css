@@ -1,0 +1,20 @@
+body {
+  background-color: #79b4dbe4;
+  color: #001422;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  background-color: #001422;
+  color: #fff;
+}
+ul {
+  background-color: #224660;
+}
+a {
+  text-decoration: none;
+  color: darkblue;
+  background-color:#4bb0f6;
+}
+p {
+  font-weight: bold;
+}

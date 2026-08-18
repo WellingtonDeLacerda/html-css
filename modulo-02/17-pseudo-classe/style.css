@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.square {
+  width: 100px;
+  height: 100px;
+  background-color: lightgray;
+  border: 1px solid black;
+  display: inline-block;
+}
+div.square:hover {
+  background-color: yellow;
+}
+div#text > p {
+  display: none;
+}
+div#text:hover {
+  color: red;
+}
+div#text:hover > p {
+  display: block;
+  background-color: red;
+  width: 120px;
+  padding: 5px;
+  color: white;
+  border: 1px solid black;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
